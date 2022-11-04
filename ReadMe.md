@@ -94,12 +94,3 @@ Recently I have been working on autonomous flight software with embedded program
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
