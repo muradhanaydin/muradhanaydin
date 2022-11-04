@@ -23,8 +23,8 @@ Recently I have been working on autonomous flight software with embedded program
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Information
+<table><tr><td valign="center" width="50%">
 
 -  🛩️ I'm currently working on autonomous flight.  
   
