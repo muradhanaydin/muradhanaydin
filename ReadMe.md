@@ -38,7 +38,7 @@ Recently I have been working on autonomous flight software with embedded program
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/2YgFaAOjbhvznWSYsF/giphy.gif?cid=6c09b9525cc52d6ba04cc19549eb6f1e669b2ffcb3188cde&rid=giphy.gif&ct=s" align="center" style="width: 75%" />
+<img src="https://media3.giphy.com/media/2YgFaAOjbhvznWSYsF/giphy.gif?cid=6c09b9525cc52d6ba04cc19549eb6f1e669b2ffcb3188cde&rid=giphy.gif&ct=s" align="center" style="width: 50%" />
 </div>  
 
 
