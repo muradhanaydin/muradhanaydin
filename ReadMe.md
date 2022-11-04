@@ -26,13 +26,13 @@ Recently I have been working on autonomous flight software with embedded program
 ## Information
 <table><tr><td valign="center" width="50%">
 
--  🛩️ I'm currently working on autonomous flight.  
+` 🛩️ I'm currently working on autonomous flight. `
   
 
-- 🔰 I’m currently learning embedded programming.  
+` 🔰 I’m currently learning embedded programming. `
   
 
-- ❓ Ask me about anything related to related technologies.  
+` ❓ Ask me about anything related to related technologies. `  
 
 
 </td><td valign="top" width="50%">
