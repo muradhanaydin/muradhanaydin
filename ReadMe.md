@@ -75,11 +75,10 @@ Recently I have been working on autonomous flight software with embedded program
 
 <br/>  
 
-<table>
-  <tr>
-    <td>[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)</td>
-    <td>[![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)</td>
+<div align="left">
+  <a href="https://choosealicense.com/licenses/mit/">[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]</a>
+  <a href="https://github.com/muradhanaydin">[![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)</a>
   </tr>
-</table>
+</div>
 
 <br/>  
