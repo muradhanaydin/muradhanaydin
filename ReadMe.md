@@ -76,6 +76,7 @@ Recently I have been working on autonomous flight software with embedded program
 <br/>  
 
 
-<br/>  
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+<br/>  
 ![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)  
