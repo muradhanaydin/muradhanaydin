@@ -81,4 +81,4 @@ Recently I have been working on autonomous flight software with embedded program
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 <br/>  
-[![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)
+[![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)__
