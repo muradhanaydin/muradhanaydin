@@ -76,9 +76,11 @@ Recently I have been working on autonomous flight software with embedded program
 <br/>  
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 <br/>  
-<div align="center">
+<div>
+  <div align="left">  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+  </div>
 <img src="https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square" align="center" />
 </div>  
