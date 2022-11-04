@@ -75,14 +75,10 @@ Recently I have been working on autonomous flight software with embedded program
 
 <br/>  
 
-<div align="left">
-  <div>[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-  </div>
-  <a href="https://github.com/muradhanaydin">[![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)</a>
-  </tr>
-</div>
-
 <br/>  
+[![Profile views counter](https://komarev.com/ghpvc/?username=muradhanaydin&&style=flat-square)
