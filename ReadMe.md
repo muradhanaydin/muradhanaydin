@@ -58,7 +58,6 @@ Recently I have been working on autonomous flight software with embedded program
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=Html&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
